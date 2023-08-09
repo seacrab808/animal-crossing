@@ -1,0 +1,17 @@
+{
+  "name": "animal-crossing",
+  "version": "1.0.0",
+  "description": "동물의 숲 컨셉 사진 관리 웹",
+  "main": "main.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "seacrab808",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
